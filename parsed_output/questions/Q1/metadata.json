@@ -1,0 +1,104 @@
+{
+  "question_number": 1,
+  "spans_pages": [
+    1,
+    1
+  ],
+  "page_spans": [
+    {
+      "page": 1,
+      "y_start": 304,
+      "y_end": 739
+    },
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 739
+    }
+  ],
+  "text_regions": [
+    {
+      "filename": "text_1.png",
+      "bbox": [
+        0,
+        0,
+        2480,
+        449
+      ]
+    },
+    {
+      "filename": "text_2.png",
+      "bbox": [
+        2083,
+        0,
+        60,
+        20
+      ]
+    },
+    {
+      "filename": "text_3.png",
+      "bbox": [
+        2195,
+        0,
+        117,
+        73
+      ]
+    },
+    {
+      "filename": "text_4.png",
+      "bbox": [
+        114,
+        125,
+        30,
+        53
+      ]
+    },
+    {
+      "filename": "text_5.png",
+      "bbox": [
+        2191,
+        641,
+        134,
+        171
+      ]
+    },
+    {
+      "filename": "text_6.png",
+      "bbox": [
+        114,
+        864,
+        30,
+        53
+      ]
+    },
+    {
+      "filename": "text_7.png",
+      "bbox": [
+        2164,
+        1074,
+        39,
+        82
+      ]
+    },
+    {
+      "filename": "text_8.png",
+      "bbox": [
+        329,
+        1134,
+        51,
+        40
+      ]
+    }
+  ],
+  "diagrams": [
+    {
+      "filename": "diagram_1.png",
+      "bbox": [
+        0,
+        549,
+        2480,
+        625
+      ]
+    }
+  ]
+}

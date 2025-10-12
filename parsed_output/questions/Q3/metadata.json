@@ -1,0 +1,581 @@
+{
+  "question_number": 3,
+  "spans_pages": [
+    2,
+    2
+  ],
+  "page_spans": [
+    {
+      "page": 2,
+      "y_start": 1059,
+      "y_end": 2597
+    },
+    {
+      "page": 2,
+      "y_start": 0,
+      "y_end": 2597
+    }
+  ],
+  "text_regions": [
+    {
+      "filename": "text_1.png",
+      "bbox": [
+        2244,
+        4,
+        38,
+        29
+      ]
+    },
+    {
+      "filename": "text_2.png",
+      "bbox": [
+        2185,
+        31,
+        133,
+        162
+      ]
+    },
+    {
+      "filename": "text_3.png",
+      "bbox": [
+        1951,
+        85,
+        30,
+        54
+      ]
+    },
+    {
+      "filename": "text_4.png",
+      "bbox": [
+        2004,
+        190,
+        32,
+        52
+      ]
+    },
+    {
+      "filename": "text_5.png",
+      "bbox": [
+        281,
+        452,
+        48,
+        55
+      ]
+    },
+    {
+      "filename": "text_6.png",
+      "bbox": [
+        2275,
+        504,
+        43,
+        44
+      ]
+    },
+    {
+      "filename": "text_7.png",
+      "bbox": [
+        323,
+        521,
+        30,
+        36
+      ]
+    },
+    {
+      "filename": "text_8.png",
+      "bbox": [
+        2345,
+        583,
+        46,
+        53
+      ]
+    },
+    {
+      "filename": "text_9.png",
+      "bbox": [
+        2149,
+        740,
+        67,
+        69
+      ]
+    },
+    {
+      "filename": "text_10.png",
+      "bbox": [
+        302,
+        845,
+        42,
+        52
+      ]
+    },
+    {
+      "filename": "text_11.png",
+      "bbox": [
+        431,
+        1114,
+        99,
+        74
+      ]
+    },
+    {
+      "filename": "text_12.png",
+      "bbox": [
+        353,
+        1167,
+        77,
+        48
+      ]
+    },
+    {
+      "filename": "text_13.png",
+      "bbox": [
+        350,
+        1235,
+        100,
+        70
+      ]
+    },
+    {
+      "filename": "text_14.png",
+      "bbox": [
+        2158,
+        1260,
+        56,
+        57
+      ]
+    },
+    {
+      "filename": "text_15.png",
+      "bbox": [
+        2266,
+        1331,
+        29,
+        37
+      ]
+    },
+    {
+      "filename": "text_16.png",
+      "bbox": [
+        300,
+        1337,
+        55,
+        63
+      ]
+    },
+    {
+      "filename": "text_17.png",
+      "bbox": [
+        379,
+        1337,
+        109,
+        64
+      ]
+    },
+    {
+      "filename": "text_18.png",
+      "bbox": [
+        2213,
+        1343,
+        46,
+        79
+      ]
+    },
+    {
+      "filename": "text_19.png",
+      "bbox": [
+        353,
+        1403,
+        52,
+        36
+      ]
+    },
+    {
+      "filename": "text_20.png",
+      "bbox": [
+        0,
+        1680,
+        84,
+        176
+      ]
+    },
+    {
+      "filename": "text_21.png",
+      "bbox": [
+        0,
+        1814,
+        186,
+        245
+      ]
+    },
+    {
+      "filename": "text_22.png",
+      "bbox": [
+        54,
+        2049,
+        46,
+        92
+      ]
+    },
+    {
+      "filename": "text_23.png",
+      "bbox": [
+        0,
+        2105,
+        28,
+        59
+      ]
+    },
+    {
+      "filename": "text_24.png",
+      "bbox": [
+        0,
+        2183,
+        82,
+        57
+      ]
+    },
+    {
+      "filename": "text_25.png",
+      "bbox": [
+        85,
+        2211,
+        32,
+        52
+      ]
+    },
+    {
+      "filename": "text_26.png",
+      "bbox": [
+        1899,
+        2341,
+        53,
+        85
+      ]
+    },
+    {
+      "filename": "text_27.png",
+      "bbox": [
+        2082,
+        2343,
+        53,
+        51
+      ]
+    },
+    {
+      "filename": "text_28.png",
+      "bbox": [
+        1961,
+        2393,
+        33,
+        54
+      ]
+    },
+    {
+      "filename": "text_29.png",
+      "bbox": [
+        91,
+        2443,
+        52,
+        30
+      ]
+    },
+    {
+      "filename": "text_30.png",
+      "bbox": [
+        1801,
+        2446,
+        58,
+        84
+      ]
+    },
+    {
+      "filename": "text_31.png",
+      "bbox": [
+        2078,
+        2463,
+        31,
+        36
+      ]
+    },
+    {
+      "filename": "text_32.png",
+      "bbox": [
+        2158,
+        2523,
+        124,
+        107
+      ]
+    },
+    {
+      "filename": "text_33.png",
+      "bbox": [
+        2185,
+        2628,
+        133,
+        162
+      ]
+    },
+    {
+      "filename": "text_34.png",
+      "bbox": [
+        1951,
+        2682,
+        30,
+        54
+      ]
+    },
+    {
+      "filename": "text_35.png",
+      "bbox": [
+        2004,
+        2787,
+        32,
+        52
+      ]
+    },
+    {
+      "filename": "text_36.png",
+      "bbox": [
+        64,
+        2824,
+        53,
+        44
+      ]
+    },
+    {
+      "filename": "text_37.png",
+      "bbox": [
+        281,
+        3049,
+        48,
+        55
+      ]
+    },
+    {
+      "filename": "text_38.png",
+      "bbox": [
+        2275,
+        3101,
+        43,
+        44
+      ]
+    },
+    {
+      "filename": "text_39.png",
+      "bbox": [
+        323,
+        3118,
+        30,
+        36
+      ]
+    },
+    {
+      "filename": "text_40.png",
+      "bbox": [
+        2345,
+        3180,
+        46,
+        53
+      ]
+    },
+    {
+      "filename": "text_41.png",
+      "bbox": [
+        169,
+        3206,
+        36,
+        31
+      ]
+    },
+    {
+      "filename": "text_42.png",
+      "bbox": [
+        97,
+        3259,
+        75,
+        79
+      ]
+    },
+    {
+      "filename": "text_43.png",
+      "bbox": [
+        2149,
+        3337,
+        67,
+        69
+      ]
+    },
+    {
+      "filename": "text_44.png",
+      "bbox": [
+        302,
+        3442,
+        42,
+        52
+      ]
+    },
+    {
+      "filename": "text_45.png",
+      "bbox": [
+        431,
+        3711,
+        99,
+        74
+      ]
+    },
+    {
+      "filename": "text_46.png",
+      "bbox": [
+        353,
+        3764,
+        77,
+        48
+      ]
+    },
+    {
+      "filename": "text_47.png",
+      "bbox": [
+        143,
+        3806,
+        56,
+        55
+      ]
+    },
+    {
+      "filename": "text_48.png",
+      "bbox": [
+        350,
+        3832,
+        100,
+        70
+      ]
+    },
+    {
+      "filename": "text_49.png",
+      "bbox": [
+        2158,
+        3857,
+        56,
+        57
+      ]
+    },
+    {
+      "filename": "text_50.png",
+      "bbox": [
+        2266,
+        3928,
+        29,
+        37
+      ]
+    },
+    {
+      "filename": "text_51.png",
+      "bbox": [
+        300,
+        3934,
+        55,
+        63
+      ]
+    },
+    {
+      "filename": "text_52.png",
+      "bbox": [
+        379,
+        3934,
+        109,
+        64
+      ]
+    },
+    {
+      "filename": "text_53.png",
+      "bbox": [
+        2213,
+        3940,
+        46,
+        79
+      ]
+    },
+    {
+      "filename": "text_54.png",
+      "bbox": [
+        137,
+        3999,
+        33,
+        48
+      ]
+    },
+    {
+      "filename": "text_55.png",
+      "bbox": [
+        353,
+        4000,
+        52,
+        36
+      ]
+    },
+    {
+      "filename": "text_56.png",
+      "bbox": [
+        1906,
+        4019,
+        194,
+        105
+      ]
+    },
+    {
+      "filename": "text_57.png",
+      "bbox": [
+        536,
+        4071,
+        53,
+        64
+      ]
+    },
+    {
+      "filename": "text_58.png",
+      "bbox": [
+        2240,
+        4071,
+        81,
+        64
+      ]
+    }
+  ],
+  "diagrams": [
+    {
+      "filename": "diagram_1.png",
+      "bbox": [
+        0,
+        0,
+        2480,
+        1552
+      ]
+    },
+    {
+      "filename": "diagram_2.png",
+      "bbox": [
+        1976,
+        0,
+        214,
+        164
+      ]
+    },
+    {
+      "filename": "diagram_3.png",
+      "bbox": [
+        0,
+        1634,
+        2480,
+        2501
+      ]
+    },
+    {
+      "filename": "diagram_4.png",
+      "bbox": [
+        1974,
+        2521,
+        216,
+        240
+      ]
+    }
+  ]
+}

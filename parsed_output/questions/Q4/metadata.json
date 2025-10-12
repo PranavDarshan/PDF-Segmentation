@@ -1,0 +1,302 @@
+{
+  "question_number": 4,
+  "spans_pages": [
+    2,
+    3
+  ],
+  "page_spans": [
+    {
+      "page": 2,
+      "y_start": 2577,
+      "y_end": 3509
+    },
+    {
+      "page": 3,
+      "y_start": 0,
+      "y_end": 355
+    }
+  ],
+  "text_regions": [
+    {
+      "filename": "text_1.png",
+      "bbox": [
+        2214,
+        0,
+        110,
+        166
+      ]
+    },
+    {
+      "filename": "text_2.png",
+      "bbox": [
+        2314,
+        0,
+        166,
+        205
+      ]
+    },
+    {
+      "filename": "text_3.png",
+      "bbox": [
+        1650,
+        4,
+        48,
+        33
+      ]
+    },
+    {
+      "filename": "text_4.png",
+      "bbox": [
+        2407,
+        84,
+        59,
+        55
+      ]
+    },
+    {
+      "filename": "text_5.png",
+      "bbox": [
+        2083,
+        139,
+        53,
+        41
+      ]
+    },
+    {
+      "filename": "text_6.png",
+      "bbox": [
+        117,
+        189,
+        54,
+        32
+      ]
+    },
+    {
+      "filename": "text_7.png",
+      "bbox": [
+        2159,
+        189,
+        54,
+        29
+      ]
+    },
+    {
+      "filename": "text_8.png",
+      "bbox": [
+        2214,
+        189,
+        39,
+        58
+      ]
+    },
+    {
+      "filename": "text_9.png",
+      "bbox": [
+        2210,
+        268,
+        30,
+        59
+      ]
+    },
+    {
+      "filename": "text_10.png",
+      "bbox": [
+        2309,
+        268,
+        64,
+        55
+      ]
+    },
+    {
+      "filename": "text_11.png",
+      "bbox": [
+        1715,
+        330,
+        31,
+        54
+      ]
+    },
+    {
+      "filename": "text_12.png",
+      "bbox": [
+        2298,
+        349,
+        37,
+        30
+      ]
+    },
+    {
+      "filename": "text_13.png",
+      "bbox": [
+        2318,
+        372,
+        79,
+        47
+      ]
+    },
+    {
+      "filename": "text_14.png",
+      "bbox": [
+        2208,
+        398,
+        42,
+        30
+      ]
+    },
+    {
+      "filename": "text_15.png",
+      "bbox": [
+        1552,
+        401,
+        33,
+        33
+      ]
+    },
+    {
+      "filename": "text_16.png",
+      "bbox": [
+        2161,
+        405,
+        32,
+        49
+      ]
+    },
+    {
+      "filename": "text_17.png",
+      "bbox": [
+        193,
+        415,
+        33,
+        42
+      ]
+    },
+    {
+      "filename": "text_18.png",
+      "bbox": [
+        0,
+        1030,
+        2480,
+        257
+      ]
+    },
+    {
+      "filename": "text_19.png",
+      "bbox": [
+        1511,
+        1077,
+        327,
+        111
+      ]
+    },
+    {
+      "filename": "text_20.png",
+      "bbox": [
+        2054,
+        1079,
+        80,
+        110
+      ]
+    },
+    {
+      "filename": "text_21.png",
+      "bbox": [
+        1435,
+        1105,
+        53,
+        38
+      ]
+    },
+    {
+      "filename": "text_22.png",
+      "bbox": [
+        2156,
+        1105,
+        57,
+        72
+      ]
+    },
+    {
+      "filename": "text_23.png",
+      "bbox": [
+        1046,
+        1107,
+        142,
+        120
+      ]
+    },
+    {
+      "filename": "text_24.png",
+      "bbox": [
+        1380,
+        1124,
+        57,
+        61
+      ]
+    },
+    {
+      "filename": "text_25.png",
+      "bbox": [
+        1227,
+        1133,
+        110,
+        104
+      ]
+    },
+    {
+      "filename": "text_26.png",
+      "bbox": [
+        2234,
+        1156,
+        83,
+        82
+      ]
+    },
+    {
+      "filename": "text_27.png",
+      "bbox": [
+        1453,
+        1159,
+        34,
+        35
+      ]
+    },
+    {
+      "filename": "text_28.png",
+      "bbox": [
+        1719,
+        1210,
+        55,
+        53
+      ]
+    },
+    {
+      "filename": "text_29.png",
+      "bbox": [
+        1584,
+        1211,
+        84,
+        76
+      ]
+    },
+    {
+      "filename": "text_30.png",
+      "bbox": [
+        2081,
+        1234,
+        85,
+        53
+      ]
+    }
+  ],
+  "diagrams": [
+    {
+      "filename": "diagram_1.png",
+      "bbox": [
+        0,
+        0,
+        2480,
+        836
+      ]
+    }
+  ]
+}

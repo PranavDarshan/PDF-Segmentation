@@ -1,0 +1,49 @@
+{
+  "question_number": 8,
+  "spans_pages": [
+    6,
+    6
+  ],
+  "page_spans": [
+    {
+      "page": 6,
+      "y_start": 299,
+      "y_end": 559
+    },
+    {
+      "page": 6,
+      "y_start": 0,
+      "y_end": 559
+    }
+  ],
+  "text_regions": [
+    {
+      "filename": "text_1.png",
+      "bbox": [
+        0,
+        0,
+        2480,
+        274
+      ]
+    },
+    {
+      "filename": "text_2.png",
+      "bbox": [
+        0,
+        360,
+        2480,
+        459
+      ]
+    },
+    {
+      "filename": "text_3.png",
+      "bbox": [
+        2,
+        453,
+        36,
+        51
+      ]
+    }
+  ],
+  "diagrams": []
+}

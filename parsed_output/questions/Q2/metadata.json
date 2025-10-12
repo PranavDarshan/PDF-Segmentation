@@ -1,0 +1,401 @@
+{
+  "question_number": 2,
+  "spans_pages": [
+    1,
+    2
+  ],
+  "page_spans": [
+    {
+      "page": 1,
+      "y_start": 719,
+      "y_end": 3509
+    },
+    {
+      "page": 2,
+      "y_start": 0,
+      "y_end": 1079
+    }
+  ],
+  "text_regions": [
+    {
+      "filename": "text_1.png",
+      "bbox": [
+        329,
+        0,
+        51,
+        44
+      ]
+    },
+    {
+      "filename": "text_2.png",
+      "bbox": [
+        458,
+        0,
+        98,
+        28
+      ]
+    },
+    {
+      "filename": "text_3.png",
+      "bbox": [
+        1379,
+        0,
+        57,
+        26
+      ]
+    },
+    {
+      "filename": "text_4.png",
+      "bbox": [
+        1540,
+        0,
+        128,
+        53
+      ]
+    },
+    {
+      "filename": "text_5.png",
+      "bbox": [
+        1757,
+        0,
+        64,
+        52
+      ]
+    },
+    {
+      "filename": "text_6.png",
+      "bbox": [
+        1824,
+        0,
+        54,
+        34
+      ]
+    },
+    {
+      "filename": "text_7.png",
+      "bbox": [
+        1900,
+        0,
+        49,
+        52
+      ]
+    },
+    {
+      "filename": "text_8.png",
+      "bbox": [
+        1851,
+        75,
+        211,
+        240
+      ]
+    },
+    {
+      "filename": "text_9.png",
+      "bbox": [
+        1619,
+        77,
+        154,
+        95
+      ]
+    },
+    {
+      "filename": "text_10.png",
+      "bbox": [
+        2088,
+        77,
+        92,
+        86
+      ]
+    },
+    {
+      "filename": "text_11.png",
+      "bbox": [
+        1802,
+        104,
+        46,
+        53
+      ]
+    },
+    {
+      "filename": "text_12.png",
+      "bbox": [
+        1755,
+        207,
+        127,
+        85
+      ]
+    },
+    {
+      "filename": "text_13.png",
+      "bbox": [
+        1593,
+        209,
+        154,
+        105
+      ]
+    },
+    {
+      "filename": "text_14.png",
+      "bbox": [
+        1511,
+        217,
+        74,
+        72
+      ]
+    },
+    {
+      "filename": "text_15.png",
+      "bbox": [
+        143,
+        228,
+        32,
+        41
+      ]
+    },
+    {
+      "filename": "text_16.png",
+      "bbox": [
+        1622,
+        340,
+        467,
+        324
+      ]
+    },
+    {
+      "filename": "text_17.png",
+      "bbox": [
+        1956,
+        340,
+        159,
+        133
+      ]
+    },
+    {
+      "filename": "text_18.png",
+      "bbox": [
+        2114,
+        471,
+        76,
+        83
+      ]
+    },
+    {
+      "filename": "text_19.png",
+      "bbox": [
+        1776,
+        545,
+        76,
+        64
+      ]
+    },
+    {
+      "filename": "text_20.png",
+      "bbox": [
+        2110,
+        577,
+        33,
+        56
+      ]
+    },
+    {
+      "filename": "text_21.png",
+      "bbox": [
+        2210,
+        577,
+        38,
+        29
+      ]
+    },
+    {
+      "filename": "text_22.png",
+      "bbox": [
+        91,
+        594,
+        53,
+        89
+      ]
+    },
+    {
+      "filename": "text_23.png",
+      "bbox": [
+        2401,
+        861,
+        55,
+        36
+      ]
+    },
+    {
+      "filename": "text_24.png",
+      "bbox": [
+        167,
+        1707,
+        29,
+        47
+      ]
+    },
+    {
+      "filename": "text_25.png",
+      "bbox": [
+        171,
+        2020,
+        41,
+        32
+      ]
+    },
+    {
+      "filename": "text_26.png",
+      "bbox": [
+        166,
+        2386,
+        42,
+        83
+      ]
+    },
+    {
+      "filename": "text_27.png",
+      "bbox": [
+        0,
+        2932,
+        84,
+        176
+      ]
+    },
+    {
+      "filename": "text_28.png",
+      "bbox": [
+        0,
+        3066,
+        186,
+        245
+      ]
+    },
+    {
+      "filename": "text_29.png",
+      "bbox": [
+        54,
+        3301,
+        46,
+        92
+      ]
+    },
+    {
+      "filename": "text_30.png",
+      "bbox": [
+        0,
+        3357,
+        28,
+        59
+      ]
+    },
+    {
+      "filename": "text_31.png",
+      "bbox": [
+        0,
+        3435,
+        82,
+        57
+      ]
+    },
+    {
+      "filename": "text_32.png",
+      "bbox": [
+        85,
+        3463,
+        32,
+        52
+      ]
+    },
+    {
+      "filename": "text_33.png",
+      "bbox": [
+        1899,
+        3593,
+        53,
+        85
+      ]
+    },
+    {
+      "filename": "text_34.png",
+      "bbox": [
+        2082,
+        3595,
+        53,
+        51
+      ]
+    },
+    {
+      "filename": "text_35.png",
+      "bbox": [
+        1961,
+        3645,
+        33,
+        54
+      ]
+    },
+    {
+      "filename": "text_36.png",
+      "bbox": [
+        91,
+        3695,
+        52,
+        30
+      ]
+    },
+    {
+      "filename": "text_37.png",
+      "bbox": [
+        1801,
+        3698,
+        58,
+        84
+      ]
+    },
+    {
+      "filename": "text_38.png",
+      "bbox": [
+        2078,
+        3715,
+        31,
+        36
+      ]
+    },
+    {
+      "filename": "text_39.png",
+      "bbox": [
+        1974,
+        3773,
+        188,
+        96
+      ]
+    },
+    {
+      "filename": "text_40.png",
+      "bbox": [
+        2158,
+        3775,
+        123,
+        86
+      ]
+    }
+  ],
+  "diagrams": [
+    {
+      "filename": "diagram_1.png",
+      "bbox": [
+        0,
+        0,
+        2480,
+        2675
+      ]
+    },
+    {
+      "filename": "diagram_2.png",
+      "bbox": [
+        0,
+        2886,
+        2480,
+        983
+      ]
+    }
+  ]
+}

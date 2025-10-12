@@ -1,0 +1,131 @@
+{
+  "question_number": 14,
+  "spans_pages": [
+    7,
+    7
+  ],
+  "page_spans": [
+    {
+      "page": 7,
+      "y_start": 229,
+      "y_end": 1670
+    },
+    {
+      "page": 7,
+      "y_start": 0,
+      "y_end": 1670
+    }
+  ],
+  "text_regions": [
+    {
+      "filename": "text_1.png",
+      "bbox": [
+        1635,
+        4,
+        36,
+        30
+      ]
+    },
+    {
+      "filename": "text_2.png",
+      "bbox": [
+        2455,
+        15,
+        25,
+        178
+      ]
+    },
+    {
+      "filename": "text_3.png",
+      "bbox": [
+        102,
+        810,
+        50,
+        30
+      ]
+    },
+    {
+      "filename": "text_4.png",
+      "bbox": [
+        168,
+        835,
+        35,
+        56
+      ]
+    },
+    {
+      "filename": "text_5.png",
+      "bbox": [
+        2284,
+        1186,
+        40,
+        54
+      ]
+    },
+    {
+      "filename": "text_6.png",
+      "bbox": [
+        2408,
+        1191,
+        72,
+        106
+      ]
+    },
+    {
+      "filename": "text_7.png",
+      "bbox": [
+        2455,
+        1685,
+        25,
+        178
+      ]
+    },
+    {
+      "filename": "text_8.png",
+      "bbox": [
+        2284,
+        2856,
+        40,
+        54
+      ]
+    },
+    {
+      "filename": "text_9.png",
+      "bbox": [
+        2408,
+        2861,
+        72,
+        106
+      ]
+    },
+    {
+      "filename": "text_10.png",
+      "bbox": [
+        2455,
+        2991,
+        25,
+        120
+      ]
+    }
+  ],
+  "diagrams": [
+    {
+      "filename": "diagram_1.png",
+      "bbox": [
+        0,
+        0,
+        2480,
+        1455
+      ]
+    },
+    {
+      "filename": "diagram_2.png",
+      "bbox": [
+        0,
+        1540,
+        2480,
+        1571
+      ]
+    }
+  ]
+}
