@@ -1,4 +1,4 @@
-# 📄 Answer Script Parser
+# 📄 Answer Script Parser and Segmentation
 
 > Computer vision-based parser for handwritten examination answer scripts with automatic question detection and segmentation using connected component analysis.
 
